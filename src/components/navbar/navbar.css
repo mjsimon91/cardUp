@@ -1,0 +1,36 @@
+.nav {
+  text-align: center;
+}
+
+.nav-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.nav-header {
+  background-color: #222;
+  height: 100px;
+  padding: 20px;
+  color: white;
+}
+
+.nav-title {
+  font-size: 1.5em;
+}
+
+.nav-score {
+  text-align: left;
+}
+
+.nav-high-score {
+  text-align: right
+}
+
+.nav-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
