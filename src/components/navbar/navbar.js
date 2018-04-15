@@ -1,15 +1,21 @@
 import React, { Component } from 'react';
 import logo from '../../logo.svg';
-import './navbar.css';
+import './Navbar.css';
 
 class Navbar extends Component {
   render() {
     return (
       <nav className="navbar navbar-light bg-light">
-        <a className="navbar-brand">
-          <img src="/assets/brand/bootstrap-solid.svg" width="30" height="30" class="d-inline-block align-top" alt=""/>
-          Bootstrap
-        </a>
+        <div className="container">
+          <div className="row">
+            <div className="col">
+              Card Up
+            </div> 
+            <div id="score">
+             Score: {this.props.score} Top Score: {this.props.topScore}
+            </div>
+          </div> 
+        </div>
       </nav>
     );
   }

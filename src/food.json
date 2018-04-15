@@ -1,82 +1,82 @@
 [
     {
         "id": 1,
-        "Name": "Carrots",
+        "name": "Carrots",
         "image": "https://images.pexels.com/photos/196643/pexels-photo-196643.jpeg"
     },
     {
         "id": 2,
-        "Name": "Beef",
+        "name": "Beef",
         "image": "https://images.pexels.com/photos/675951/pexels-photo-675951.jpeg"
     },
     {
         "id": 3,
-        "Name": "Berries",
+        "name": "Berries",
         "image": "https://images.pexels.com/photos/87818/background-berries-berry-blackberries-87818.jpeg"
     },
     {
         "id": 4,
-        "Name": "Cake",
+        "name": "Cake",
         "image": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg"
     },
     {
         "id": 5,
-        "Name": "Spaghetti",
+        "name": "Spaghetti",
         "image": "https://images.pexels.com/photos/8500/food-dinner-pasta-spaghetti-8500.jpg"
     },
     {
         "id": 6,
-        "Name": "Potatoe",
+        "name": "Potatoe",
         "image": "https://images.pexels.com/photos/162971/potatoes-french-mourning-funny-162971.jpeg"
     },
     {
         "id": 7,
-        "Name": "Eggs",
+        "name": "Eggs",
         "image": "https://images.pexels.com/photos/566566/pexels-photo-566566.jpeg"
     },
     {
         "id": 8,
-        "Name": "Burger",
+        "name": "Burger",
         "image": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg"
     },
     {
         "id": 9,
-        "Name": "Salad",
+        "name": "Salad",
         "image": "https://images.pexels.com/photos/5938/food-salad-healthy-lunch.jpg"
     },
     {
         "id": 10,
-        "Name": "Pancakes",
+        "name": "Pancakes",
         "image": "https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg"
     },
     {
         "id": 11,
-        "Name": "Ingredients",
+        "name": "Ingredients",
         "image": "https://images.pexels.com/photos/459469/pexels-photo-459469.jpeg"
     },
     {
         "id": 12,
-        "Name": "Burrito",
+        "name": "Burrito",
         "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
     },
     {
         "id": 13,
-        "Name": "Popcorn",
+        "name": "Popcorn",
         "image": "https://images.pexels.com/photos/57043/pexels-photo-57043.jpeg"
     },
     {
         "id": 14,
-        "Name": "Muffin",
+        "name": "Muffin",
         "image": "https://images.pexels.com/photos/8279/muffin.jpg"
     },
     {
         "id": 15,
-        "Name": "Soup",
+        "name": "Soup",
         "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg"
     },
     {
         "id": 16,
-        "Name": "Peppers",
+        "name": "Peppers",
         "image": "https://images.pexels.com/photos/57426/paprika-vegetables-colorful-food-57426.jpeg"
     }
 ]
