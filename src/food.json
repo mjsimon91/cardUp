@@ -58,5 +58,25 @@
         "id": 12,
         "name": "Burrito",
         "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg"
-    }
+    },
+    {
+        "id": 13,
+        "name": "Popcorn",
+        "image": "https://images.pexels.com/photos/57043/pexels-photo-57043.jpeg"
+    },
+    {
+        "id": 14,
+        "name": "Muffin",
+        "image": "https://images.pexels.com/photos/8279/muffin.jpg"
+    },        
+    {
+        "id": 15,
+        "name": "Soup",
+        "image": "https://images.pexels.com/photos/539451/pexels-photo-539451.jpeg"
+    },
+    {
+        "id": 15,
+        "name": "Peppers",
+        "image": "https://images.pexels.com/photos/57426/paprika-vegetables-colorful-food-57426.jpeg"
+    }	    
 ]

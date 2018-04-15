@@ -5,13 +5,10 @@ import './Navbar.css';
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-light bg-light">
+      <nav className="nav">
         <div className="container">
           <div className="row">
-            <div className="col">
-              Card Up
-            </div> 
-            <div id="score">
+            <div className="right-align score">
              Score: {this.props.score} Top Score: {this.props.topScore}
             </div>
           </div> 
