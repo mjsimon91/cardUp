@@ -65,6 +65,7 @@ class App extends Component {
             if (element.id === id) {
                 // this is the element that was clicked
                 if (element.guessed) {
+                    console.log('lost')
                     // lost
 
                     //Find out if this is the top score
@@ -73,11 +74,14 @@ class App extends Component {
                     } 
                     score = 0
                     alert("You already selected that. Game over")
+                    
+                    foodsState.forEach(element => {
+                      element.guessed = false  
+                    })
                 } else {
                     // add to score and shuffle
                     element.guessed = true
                     score++
-                    foodsState = foods
                 }
             }
         })

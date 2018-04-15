@@ -1,3 +1,4 @@
-.foodImage .hoverable .card{
-    margin: 100px;
+.foodImage {
+    height: 150px;
+    margin: 10px;
 }
