@@ -1,20 +1,20 @@
 import React, { Component } from 'react';
 import './Navbar.css';
 
-class Navbar extends Component {
-  render() {
+const Navbar = props => {
+  
     return (
       <nav className="nav">
         <div className="container">
           <div className="row">
             <div className="right-align score">
-             Score: {this.props.score} Top Score: {this.props.topScore}
+             Score: {props.score} Top Score: {props.topScore}
             </div>
           </div> 
         </div>
       </nav>
     );
-  }
+  
 }
 
 
